@@ -1,0 +1,113 @@
+[INFO] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/flywaydb/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/cyclonedx/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/io/github/git-commit-id/maven-metadata.xml
+Progress (1): 249 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/maven-metadata.xml (249 B at 270 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jooq/maven-metadata.xml
+Progress (1): 243 BProgress (2): 243 B | 398 B                           Downloaded from central: https://repo.maven.apache.org/maven2/org/cyclonedx/maven-metadata.xml (243 B at 139 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/maven-metadata.xml
+Downloaded from central: https://repo.maven.apache.org/maven2/org/jooq/maven-metadata.xml (398 B at 468 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/liquibase/maven-metadata.xml
+Progress (1): 375 BProgress (2): 375 B | 394 B                           Downloaded from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/maven-metadata.xml (375 B at 882 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/graalvm/buildtools/maven-metadata.xml
+Downloaded from central: https://repo.maven.apache.org/maven2/org/liquibase/maven-metadata.xml (394 B at 972 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml
+Progress (1): 4.6 kBProgress (1): 9.7 kBProgress (1): 14 kB Progress (2): 14 kB | 255 B                           Downloaded from central: https://repo.maven.apache.org/maven2/io/github/git-commit-id/maven-metadata.xml (255 B at 105 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml
+Progress (2): 14 kB | 242 BProgress (3): 14 kB | 242 B | 3.1 kBProgress (3): 14 kB | 242 B | 7.7 kBProgress (3): 14 kB | 242 B | 12 kB Progress (3): 14 kB | 242 B | 17 kBProgress (3): 14 kB | 242 B | 20 kBProgress (3): 14 kB | 242 B | 21 kB                                   Downloaded from central: https://repo.maven.apache.org/maven2/org/graalvm/buildtools/maven-metadata.xml (242 B at 699 B/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml (14 kB at 34 kB/s)
+Progress (2): 21 kB | 234 B                           Downloaded from central: https://repo.maven.apache.org/maven2/org/flywaydb/maven-metadata.xml (234 B at 86 B/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml (21 kB at 19 kB/s)
+[INFO] 
+[INFO] ---------------------< com.smartstudyhub:backend >----------------------
+[INFO] Building  0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] >>> spring-boot:3.5.13:run (default-cli) > test-compile @ backend >>>
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ backend ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.14.1:compile (default-compile) @ backend ---
+[INFO] Nothing to compile - all classes are up to date.
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ backend ---
+[INFO] Copying 1 resource from src\test\resources to target\test-classes
+[INFO] 
+[INFO] --- compiler:3.14.1:testCompile (default-testCompile) @ backend ---
+[INFO] Nothing to compile - all classes are up to date.
+[INFO] 
+[INFO] <<< spring-boot:3.5.13:run (default-cli) < test-compile @ backend <<<
+[INFO] 
+[INFO] 
+[INFO] --- spring-boot:3.5.13:run (default-cli) @ backend ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-buildpack-platform/3.5.13/spring-boot-buildpack-platform-3.5.13.jar
+Progress (1): 0.9/323 kBProgress (1): 2.3/323 kBProgress (1): 3.6/323 kBProgress (1): 5.0/323 kBProgress (1): 6.4/323 kBProgress (1): 7.7/323 kBProgress (1): 9.1/323 kBProgress (1): 10/323 kB Progress (1): 12/323 kBProgress (1): 12/323 kBProgress (1): 14/323 kBProgress (1): 15/323 kBProgress (1): 16/323 kBProgress (1): 18/323 kBProgress (1): 19/323 kBProgress (1): 21/323 kBProgress (1): 22/323 kBProgress (1): 23/323 kBProgress (1): 25/323 kBProgress (1): 26/323 kBProgress (1): 27/323 kBProgress (1): 29/323 kBProgress (1): 30/323 kBProgress (1): 31/323 kBProgress (1): 33/323 kBProgress (1): 34/323 kBProgress (1): 36/323 kBProgress (1): 37/323 kBProgress (1): 38/323 kBProgress (1): 40/323 kBProgress (1): 41/323 kBProgress (1): 42/323 kBProgress (1): 44/323 kBProgress (1): 45/323 kBProgress (1): 49/323 kBProgress (1): 54/323 kBProgress (1): 58/323 kBProgress (1): 62/323 kBProgress (1): 66/323 kBProgress (1): 71/323 kBProgress (1): 75/323 kBProgress (1): 79/323 kBProgress (1): 83/323 kBProgress (1): 87/323 kBProgress (1): 92/323 kBProgress (1): 96/323 kBProgress (1): 100/323 kBProgress (1): 104/323 kBProgress (1): 109/323 kBProgress (1): 113/323 kBProgress (1): 117/323 kBProgress (1): 121/323 kBProgress (1): 125/323 kBProgress (1): 130/323 kBProgress (1): 134/323 kBProgress (1): 138/323 kBProgress (1): 142/323 kBProgress (1): 143/323 kBProgress (1): 148/323 kBProgress (1): 152/323 kBProgress (1): 156/323 kBProgress (1): 160/323 kBProgress (1): 165/323 kBProgress (1): 169/323 kBProgress (1): 173/323 kBProgress (1): 177/323 kBProgress (1): 181/323 kBProgress (1): 186/323 kBProgress (1): 190/323 kBProgress (1): 194/323 kBProgress (1): 198/323 kBProgress (1): 203/323 kBProgress (1): 207/323 kBProgress (1): 211/323 kBProgress (1): 227/323 kBProgress (1): 244/323 kBProgress (1): 260/323 kBProgress (1): 274/323 kBProgress (1): 291/323 kBProgress (1): 307/323 kBProgress (1): 323 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-buildpack-platform/3.5.13/spring-boot-buildpack-platform-3.5.13.jar (323 kB at 668 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-loader-tools/3.5.13/spring-boot-loader-tools-3.5.13.jar
+Progress (1): 7.5/466 kBProgress (1): 24/466 kB Progress (1): 40/466 kBProgress (1): 57/466 kBProgress (1): 73/466 kBProgress (1): 89/466 kBProgress (1): 106/466 kBProgress (1): 122/466 kBProgress (1): 139/466 kBProgress (1): 155/466 kBProgress (1): 171/466 kBProgress (1): 188/466 kBProgress (1): 204/466 kBProgress (1): 220/466 kBProgress (1): 237/466 kBProgress (1): 253/466 kBProgress (1): 270/466 kBProgress (1): 286/466 kBProgress (1): 302/466 kBProgress (1): 319/466 kBProgress (1): 335/466 kBProgress (1): 352/466 kBProgress (1): 368/466 kBProgress (1): 384/466 kBProgress (1): 401/466 kBProgress (1): 417/466 kBProgress (1): 433/466 kBProgress (1): 450/466 kBProgress (1): 466 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-loader-tools/3.5.13/spring-boot-loader-tools-3.5.13.jar (466 kB at 1.7 MB/s)
+[INFO] Attaching agents: []
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::               (v3.5.13)
+
+2026-04-21T00:30:04.902+05:30  INFO 12180 --- [backend] [  restartedMain] c.s.backend.BackendApplication           : Starting BackendApplication using Java 21.0.10 with PID 12180 (D:\SmartStudyHub\backend\target\classes started by rahul in D:\SmartStudyHub\backend)
+2026-04-21T00:30:04.911+05:30  INFO 12180 --- [backend] [  restartedMain] c.s.backend.BackendApplication           : No active profile set, falling back to 1 default profile: "default"
+2026-04-21T00:30:05.008+05:30  INFO 12180 --- [backend] [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-04-21T00:30:05.009+05:30  INFO 12180 --- [backend] [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-04-21T00:30:06.941+05:30  INFO 12180 --- [backend] [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-04-21T00:30:07.110+05:30  INFO 12180 --- [backend] [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 145 ms. Found 1 JPA repository interface.
+2026-04-21T00:30:08.967+05:30  INFO 12180 --- [backend] [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2026-04-21T00:30:09.050+05:30  INFO 12180 --- [backend] [  restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-04-21T00:30:09.052+05:30  INFO 12180 --- [backend] [  restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.53]
+2026-04-21T00:30:09.449+05:30  INFO 12180 --- [backend] [  restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-04-21T00:30:09.452+05:30  INFO 12180 --- [backend] [  restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4440 ms
+2026-04-21T00:30:09.960+05:30  INFO 12180 --- [backend] [  restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-04-21T00:30:10.207+05:30  INFO 12180 --- [backend] [  restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.45.Final
+2026-04-21T00:30:10.371+05:30  INFO 12180 --- [backend] [  restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2026-04-21T00:30:11.482+05:30  INFO 12180 --- [backend] [  restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-04-21T00:30:11.581+05:30  INFO 12180 --- [backend] [  restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-04-21T00:30:12.506+05:30  INFO 12180 --- [backend] [  restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@45ee7536
+2026-04-21T00:30:12.514+05:30  INFO 12180 --- [backend] [  restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-04-21T00:30:12.881+05:30  INFO 12180 --- [backend] [  restartedMain] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.43
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2026-04-21T00:30:15.143+05:30  INFO 12180 --- [backend] [  restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+Hibernate: 
+    create table courses (
+        id bigint not null auto_increment,
+        description varchar(1000),
+        name varchar(255) not null,
+        primary key (id)
+    ) engine=InnoDB
+2026-04-21T00:30:15.468+05:30  INFO 12180 --- [backend] [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-04-21T00:30:16.550+05:30  WARN 12180 --- [backend] [  restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-04-21T00:30:17.841+05:30  INFO 12180 --- [backend] [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2026-04-21T00:30:18.011+05:30  INFO 12180 --- [backend] [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8081 (http) with context path '/'
+2026-04-21T00:30:18.050+05:30  INFO 12180 --- [backend] [  restartedMain] c.s.backend.BackendApplication           : Started BackendApplication in 14.091 seconds (process running for 15.169)
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  01:12 min
+[INFO] Finished at: 2026-04-21T00:30:59+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:3.5.13:run (default-cli) on project backend: Process terminated with exit code: -1 -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
